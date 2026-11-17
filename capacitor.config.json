@@ -1,0 +1,7 @@
+{
+  "appId": "com.thelastmemory.jogo",
+  "appName": "The Last Memory",
+  "webDir": "www",
+  "backgroundColor": "#000000",
+  "android": { "allowMixedContent": false }
+}
